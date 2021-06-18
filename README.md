@@ -5,64 +5,55 @@ A Technical Computer Science student at the Hogeschool Rotterdam
 
 # Project Highlights
 
-<div style="display: flex; text-align: center;">
-<div style="flex: 1; margin-right: 1em">
-
-<a href="https://github.com/bplaat/win32asm" style="color: inherit; text-decoration: none;">
-
-![Win32asm project image](images/win32asm.png)
+[![Win32asm project image](images/win32asm.png)](https://github.com/bplaat/win32asm)
 ## Win32asm
 Windows programs completly written in x86 & x86_64 assembler
 
-</a>
 <br>
 
-![Win32asm project image](images/megabots.png)
+[![MegaBots project image](images/megabots.png)](https://github.com/bplaat/megabots)
+
 ## Megabots
 A robots simulation written with Python clients and Python communication server with a 3D web front-end
 
 <br>
 
-![PlaatCraft project image](images/plaatcraft.png)
+[![PlaatCraft project image](images/plaatcraft.png)](https://github.com/bplaat/plaatcraft)
 ## PlaatCraft
 A Minecraft like game written in C and modern OpenGL 3.3
 
 <br>
 
-![BassieRacing project image](images/bassieracing.png)
+[![BassieRacing project image](images/bassieracing.png)](https://github.com/bplaat/bassieracing)
 ## BassieRacing
 A Python 2d racing game with map editor made with PyGame
 
 <br>
 
-![Neva processor project image](images/neva-processor.png)
+[![Neva processor project image](images/neva-processor.png)](https://github.com/bplaat/neva-processor)
 ## Neva processor
 A simple 8-bit processor made with Logic gates with web simulation
 
-</div>
-<div style="flex: 1; margin-left: 1em">
+<br>
 
-![Win32asm project image](images/bassiemusic-android.png)
+[![Win32asm project image](images/bassiemusic-android.png)](https://github.com/bplaat/bassiemusic-android)
 ## BassieMusic Android
 A simple Android music player app found in the Google Playstore
 
 <br>
 
-![Win32asm project image](images/bassiestove.jpg)
+[![Win32asm project image](images/bassiestove.jpg)](https://github.com/bplaat/bassiestove)
 ## BassieStove
 A hardware project made with SimPyLC with an AVR microcontroller (Arduino Uno)
 
 <br>
 
-![Mad Turkey project image](images/mad-turkey.png)
+[![Mad Turkey project image](images/mad-turkey.png)](https://github.com/bplaat/mad-turkey)
 ## Mad Turkey
 A weather station network with PHP backend and ESP8266 microcontrollers
 
 <br>
 
-![BassieOS project image](images/bassieos.png)
+[![BassieOS project image](images/bassieos.png)](https://github.com/bplaat/bassieos)
 ## BassieOS
 A simple window manager written in Lua for the ComputerCraft Minecraft Mod
-
-</div>
-</div>
