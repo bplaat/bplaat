@@ -6,6 +6,18 @@ A Technical Computer Science student at the Hogeschool Rotterdam
 
 # Project Highlights
 
+[![Strepen project image](images/strepen.png)](https://github.com/bplaat/strepen)
+## Strepen
+A new modern strepen system for Scouting Die Kantanky's with a mobile application
+
+<br>
+
+[![Album Downloader project image](images/albumdownloader.png)](https://github.com/bplaat/albumdownloader)
+## Album Downloader
+A script that downloads complete albums via yt-dlp with the right metadata from the Deezer API
+
+<br>
+
 [![Win32asm project image](images/win32asm.png)](https://github.com/bplaat/win32asm)
 ## Win32asm
 Windows programs completly written in x86 & x86_64 assembler
