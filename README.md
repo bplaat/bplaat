@@ -1,7 +1,7 @@
 # Hey, I am Bastiaan van der Plaat
 A Technical Computer Science student at the Hogeschool Rotterdam
 
-![bplaat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bplaat&theme=dracula&show_icons=true)
+![bplaat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bplaat&count_private=true&theme=dracula&show_icons=true)
 ![bplaat's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bplaat&theme=dracula&layout=compact&langs_count=8)
 
 # Project Highlights
