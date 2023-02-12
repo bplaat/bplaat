@@ -6,6 +6,12 @@ A Technical Computer Science student at the Hogeschool Rotterdam
 
 # Project Highlights
 
+[![BassieMusic project image](images/bassiemusic.png)](https://github.com/bplaat/bassiemusic)
+## BassieMusic
+An online music streaming platform with download capabilities
+
+<br>
+
 [![Strepen project image](images/strepen.png)](https://github.com/bplaat/strepen)
 ## Strepen
 A new modern strepen system for Scouting Die Kantanky's with a mobile application
