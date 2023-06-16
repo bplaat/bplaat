@@ -6,6 +6,8 @@ A Technical Computer Science student at the Hogeschool Rotterdam
 
 ![bplaat's GitHub streak](http://github-readme-streak-stats.herokuapp.com?user=bplaat&theme=dracula)
 
+![bplaat's GitHub trophies](https://github-profile-trophy.vercel.app/?username=bplaat&theme=dracula&margin-w=4&column=8)
+
 # Project Highlights
 
 [![BassieMusic project image](images/bassiemusic.png)](https://github.com/bplaat/bassiemusic)
