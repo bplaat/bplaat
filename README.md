@@ -1,12 +1,53 @@
 # Hey, I am Bastiaan van der Plaat
 A graduated Technical Computer Science student at the Hogeschool Rotterdam, my hobby's are programming and scouting.
 
-![bplaat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bplaat&count_private=true&theme=dracula&show_icons=true)
-![bplaat's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bplaat&theme=dracula&layout=compact&langs_count=8)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=bplaat&count_private=true&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=bplaat&count_private=true&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img alt="bplaat's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bplaat&count_private=true&show_icons=true" />
+</picture>
 
-![bplaat's GitHub streak](http://github-readme-streak-stats.herokuapp.com?user=bplaat&theme=dracula)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bplaat&layout=compact&langs_count=8&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bplaat&layout=compact&langs_count=8"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img alt="bplaat's Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bplaat&layout=compact&langs_count=8" />
+</picture>
 
-![bplaat's GitHub trophies](https://github-profile-trophy.vercel.app/?username=bplaat&theme=dracula&margin-w=4&column=8)
+<picture>
+  <source
+    srcset="http://github-readme-streak-stats.herokuapp.com?user=bplaat&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="http://github-readme-streak-stats.herokuapp.com?user=bplaat"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img alt="bplaat's GitHub streak" src="http://github-readme-streak-stats.herokuapp.com?user=bplaat" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=bplaat&margin-w=4&column=8&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=bplaat&margin-w=4&column=8"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img alt="bplaat's GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=bplaat&margin-w=4&column=8" />
+</picture>
 
 # Project Highlights
 
