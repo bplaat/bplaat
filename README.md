@@ -1,5 +1,5 @@
-# Hey, I am Bastiaan van der Plaat
-A graduated Technical Computer Science student at the Hogeschool Rotterdam, my hobby's are programming and scouting.
+# Hey, my name is Bastiaan van der Plaat
+Currently I'm a Software Engineer at Technolution, my hobby's are programming and scouting.
 
 <picture>
   <source
