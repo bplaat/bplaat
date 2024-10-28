@@ -48,27 +48,3 @@ Currently I'm a Software Engineer at [Technolution](https://www.technolution.com
   />
   <img alt="bplaat's GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=bplaat&margin-w=4&column=8" />
 </picture>
-
-# Project Highlights
-
-[![BassieMusic project image](images/bassiemusic.png)](https://github.com/bplaat/bassiemusic)
-## BassieMusic
-An online music streaming platform with download capabilities
-
-<br>
-
-[![Strepen project image](images/strepen.png)](https://github.com/bplaat/strepen)
-## Strepen
-A new modern strepen system for Scouting Die Kantanky's with a mobile application
-
-<br>
-
-[![Win32asm project image](images/win32asm.png)](https://github.com/bplaat/win32asm)
-## Win32asm
-Windows programs completly written in x86 & x86_64 assembler
-
-<br>
-
-[![PlaatCraft project image](images/plaatcraft.png)](https://github.com/bplaat/plaatcraft)
-## PlaatCraft
-A Minecraft like game written in C and modern OpenGL 3.3
