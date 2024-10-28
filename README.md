@@ -39,12 +39,12 @@ Currently I'm a Software Engineer at [Technolution](https://www.technolution.com
 
 <picture>
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=bplaat&margin-w=4&column=8&theme=dracula"
+    srcset="https://github-profile-trophy.vercel.app/?username=bplaat&margin-w=4&column=9&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=bplaat&margin-w=4&column=8"
+    srcset="https://github-profile-trophy.vercel.app/?username=bplaat&margin-w=4&column=9"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img alt="bplaat's GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=bplaat&margin-w=4&column=8" />
+  <img alt="bplaat's GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=bplaat&margin-w=4&column=9" />
 </picture>
