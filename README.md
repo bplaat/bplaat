@@ -1,5 +1,5 @@
 # Hey, my name is Bastiaan van der Plaat
-Currently I'm a Software Engineer at [Technolution](https://www.technolution.com/), my hobby's are [programming](https://github.com/bplaat?tab=repositories) and [scouting](https://www.diekantankys.nl/).
+My hobby's are [programming](https://github.com/bplaat?tab=repositories) and [scouting](https://www.diekantankys.nl/).
 
 <picture>
   <source
