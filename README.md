@@ -27,14 +27,14 @@ My hobby's are [programming](https://github.com/bplaat?tab=repositories) and [sc
 
 <picture>
   <source
-    srcset="http://github-readme-streak-stats.herokuapp.com?user=bplaat&theme=dracula"
+    srcset="https://streak-stats.demolab.com?user=bplaat&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="http://github-readme-streak-stats.herokuapp.com?user=bplaat"
+    srcset="https://streak-stats.demolab.com?user=bplaat"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img alt="bplaat's GitHub streak" src="http://github-readme-streak-stats.herokuapp.com?user=bplaat" />
+  <img alt="bplaat's GitHub streak" src="https://streak-stats.demolab.com?user=bplaat" />
 </picture>
 
 <picture>
